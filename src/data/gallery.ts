@@ -46,7 +46,7 @@ export const galleryItems: GalleryItem[] = [
     title: "Detail Shingle Work",
     category: "Shingles",
     image:
-      "https://images.unsplash.com/photo-1724854072544-7e2e5e5b5f6a?q=80&w=1200&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1605450099279-533bd3ce379a?w=1600&q=80&auto=format&fit=crop",
     aspect: "landscape",
   },
   {
@@ -54,7 +54,7 @@ export const galleryItems: GalleryItem[] = [
     title: "Storm Damage Repair",
     category: "Roof Repair",
     image:
-      "https://images.unsplash.com/photo-<image-id>?q=80&w=1200&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1763067166674-f7015530e546?w=1200&q=80&auto=format&fit=crop",
     aspect: "square",
   },
   {
