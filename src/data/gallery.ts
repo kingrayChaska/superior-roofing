@@ -38,7 +38,7 @@ export const galleryItems: GalleryItem[] = [
     title: "Suburban Home Reroof",
     category: "Roof Replacement",
     image:
-      "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1755114203680-d39d95efa82c?q=80&w=1200&auto=format&fit=crop",
     aspect: "portrait",
   },
   {
@@ -46,7 +46,7 @@ export const galleryItems: GalleryItem[] = [
     title: "Detail Shingle Work",
     category: "Shingles",
     image:
-      "https://images.unsplash.com/photo-1631889993959-41b4e9c6e3c5?q=80&w=1200&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1724854072544-7e2e5e5b5f6a?q=80&w=1200&auto=format&fit=crop",
     aspect: "landscape",
   },
   {
@@ -54,7 +54,7 @@ export const galleryItems: GalleryItem[] = [
     title: "Storm Damage Repair",
     category: "Roof Repair",
     image:
-      "https://images.unsplash.com/photo-1594818379496-da1e345b0ded?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-<image-id>?q=80&w=1200&auto=format&fit=crop",
     aspect: "square",
   },
   {
